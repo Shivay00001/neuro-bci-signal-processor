@@ -1,8 +1,3 @@
-# Neuro Bci Signal Processor
+# neuro bci signal processor
 
-This repository contains the source code and configuration for **neuro-bci-signal-processor**, a part of the advanced engineering showcase.
-
-## Features
-- Professional-grade architecture
-- Clean code principles
-- Ready for production deployment
+A complete, production-grade enterprise solution. Ready for deployment.
